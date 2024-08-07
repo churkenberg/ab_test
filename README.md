@@ -25,7 +25,5 @@ It remains to be seen which of the AB groups showed the best results.
 •gold_on_other_activities – gold spent on other products <br/>
 
 
-Download dataset:
-
 <a href="https://drive.google.com/file/d/1ynnyIKbT64yoi0IpMd_Gs3I-n1m61QT-/view?usp=sharing">
         <img alt="GitHub" src="https://img.shields.io/badge/Download%20dataset-lightgrey?style=for-the-badge">
