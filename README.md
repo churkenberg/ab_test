@@ -28,4 +28,4 @@ It remains to be seen which of the AB groups showed the best results.
 Download dataset:
 
 <a href="https://drive.google.com/file/d/1ynnyIKbT64yoi0IpMd_Gs3I-n1m61QT-/view?usp=sharing">
-        <img alt="GitHub" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Download%20dataset&style=for-the-badge&sort=semver">
+        <img alt="GitHub" src="https://img.shields.io/badge/Download%20dataset-lightgrey?style=for-the-badge">
