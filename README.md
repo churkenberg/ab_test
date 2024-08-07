@@ -23,3 +23,8 @@ It remains to be seen which of the AB groups showed the best results.
 •revenue_on_other_activities – the rhubarb spent on other products, including gold <br/>
 •gold_on_event – gold spent on event progress <br/>
 •gold_on_other_activities – gold spent on other products <br/>
+
+
+Download dataset:
+<a href="https://drive.google.com/file/d/1ynnyIKbT64yoi0IpMd_Gs3I-n1m61QT-/view?usp=sharing">
+        <img alt="GitHub" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
